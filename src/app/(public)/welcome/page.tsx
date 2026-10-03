@@ -81,6 +81,12 @@ export default function Welcome() {
           >
             Go to dashboard
           </Link>
+          <Link
+            href="/privacy"
+            className="text-xs text-muted-foreground underline"
+          >
+            Privacy Policy
+          </Link>
         </CardFooter>
       </Card>
     </main>
